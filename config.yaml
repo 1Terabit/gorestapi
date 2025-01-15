@@ -1,0 +1,7 @@
+server:
+  name: gorestapi
+  port: 8080
+
+firestore:
+  project_id: "simpleapi-e98e4" # Cambia esto por el ID de tu proyecto Firestore
+  # Puedes agregar más configuraciones si es necesario
